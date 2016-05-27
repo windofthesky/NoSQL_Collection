@@ -1,0 +1,1 @@
+# This file is used to collect the information about the column family type no-sql database.
