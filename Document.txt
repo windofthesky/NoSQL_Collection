@@ -1,0 +1,1 @@
+# This file is used to collect the information about the document type no-sql database.
